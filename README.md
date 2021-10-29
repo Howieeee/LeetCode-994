@@ -1,2 +1,3 @@
 # LeetCode-994
-Rotting Oranges
+## Rotting Oranges
+https://leetcode.com/problems/rotting-oranges/
